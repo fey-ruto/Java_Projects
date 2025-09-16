@@ -1,6 +1,3 @@
-Perfect 🚀 Let’s make your README a bit more **fun + professional**, with emojis, a table for quick project lookup, and badges at the top.
-
-Here’s an upgraded version you can drop into your `README.md`:
 
 ---
 
@@ -31,8 +28,6 @@ This repository is a collection of Java programs I’ve created while learning a
 | **InvestmentComputer.java**  | Calculates investment growth and returns 📈.                          |
 | **Multiplication.java**      | Multiplication practice program for math learners ✖️.                 |
 | **PasswordGenerator.java**   | Random password generator with customizable options 🔐.               |
-| **test.java**                | Scratch file for experimenting with code.                             |
-
 ---
 
 ## ▶️ How to Run
@@ -40,13 +35,13 @@ This repository is a collection of Java programs I’ve created while learning a
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/fey-ru†o/java_projects.git
    ```
 
 2. Navigate into the repo folder:
 
    ```bash
-   cd your-repo-name
+   cd java_projects
    ```
 
 3. Compile and run any project, e.g.:
@@ -65,5 +60,3 @@ This repository is a collection of Java programs I’ve created while learning a
 * Future improvements may include GUI versions and integration into larger apps.
 
 ---
-
-👉 Would you like me to also **add sample screenshots/outputs** (for games like Hangman or Connect Four) so your README looks even more engaging to visitors?
